@@ -14,7 +14,7 @@ Motor speed information is displayed on a 16x2 LCD, while UART communication is 
 
 The following image shows the circuit and system running in Proteus.
 
-![DC Motor Speed Control Simulation](<img width="1307" height="733" alt="Ketqua_DC_Motor png" src="https://github.com/user-attachments/assets/4c17714e-5f6c-4157-b883-9b3b6a205718" />)
+![DC Motor Speed Control Simulation](Ketqua_DC_Motor.png.png)
 
 ## Features
 
