@@ -102,7 +102,9 @@ DC-Motor-Speed-Control-STM32/
 
 ## Simulation Results
 
-Simulation results and circuit diagrams are available in the `Images/` and `Proteus/` directories.
+The following image shows the DC motor speed control system simulated in Proteus.
+
+![DC Motor Speed Control Simulation](Images/dc-motor-speed-control-proteus.png)
 
 ## Author
 
